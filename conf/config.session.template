@@ -1,0 +1,9 @@
+<?php
+$mysqltype = 'mysql';
+$mysqlserveur = 'localhost';
+$mysqllogin = 'login';
+$mysqlpassword = 'pass';
+$mysqlmaindb='dbname';
+$mysqlprefix='gt';
+$gt_version='2.0.6';
+?>

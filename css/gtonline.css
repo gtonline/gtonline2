@@ -1,0 +1,64 @@
+body {
+    font-size: 11px;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+label {
+	display: block;
+	width: auto;
+	float: left;
+}
+#general {
+    /*width: 1005px;*/
+    width: 100%;
+    /*margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;*/
+}
+.day {
+    display: block;
+    width: auto;
+    float: left;
+}
+.comment {
+    font-size: 9px;
+}
+.placeholder {color: #aaa;}
+p {width:100%}
+#datepicker {
+    font-size: 11px;
+    position: absolute;
+    visibility: visible;
+    width: auto;
+    margin-right: 10px;
+}
+#tabs {
+    position: absolute;
+    margin-left: 220px;
+    margin-right: 0px;
+    width: auto;
+}
+#dialog_newuser {
+    width: auto;
+}
+#dialog_login {
+    width: auto;
+}
+#ui-timepicker-div { font-size: 10px; }
+.validateTips { border: 1px solid transparent; padding: 0.3em; }
+.ui-windows { position: relative; padding: .2em; width: 100%; overflow: hidden; margin-top: 5px ; margin-bottom: 5px}
+.ui-windows .ui-windows-titlebar { padding: .4em 1em; position: relative;  }
+.ui-windows .ui-windows-title { float: left; margin: .1em 16px .1em 0; }
+.ui-windows .ui-windows-titlebar-close { position: absolute; right: .3em; top: 50%; width: 19px; margin: -10px 0 0 0; padding: 1px; height: 18px; }
+.ui-windows .ui-windows-titlebar-close span { display: block; margin: 1px; }
+.ui-windows .ui-windows-titlebar-close:hover, .ui-windows .ui-windows-titlebar-close:focus { padding: 0; }
+.ui-windows .ui-windows-content { position: relative; border: 0; padding: .5em 1em; background: none; overflow: auto; zoom: 1; }
+.ui-windows .ui-windows-buttonpane { text-align: left; border-width: 1px 0 0 0; background-image: none; margin: .5em 0 0 0; padding: .3em 1em .5em .4em; }
+.ui-windows .ui-windows-buttonpane .ui-windows-buttonset { float: right; }
+.ui-windows .ui-windows-buttonpane button { margin: .5em .4em .5em 0; cursor: pointer; }
+.ui-windows .ui-resizable-se { width: 14px; height: 14px; right: 3px; bottom: 3px; }
+.ui-draggable .ui-windows-titlebar { cursor: move; }
+h1 {
+    font-size:15px;
+    margin-bottom: 2px;
+}
